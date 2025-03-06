@@ -1,5 +1,5 @@
 # About Me:
-Currently working as Computer science Bsc student at University of exeter in my second year<br>looking to collaborate on software devlopment projects or front end projects<br> I’m looking for help with getting industrial experience in the software development sector<br> I’m currently learning react js <br>
+Currently working as Computer science Bsc student at University of exeter in my third year<br>looking to collaborate on software devlopment projects or front end projects<br> I’m looking for help with getting industrial experience in the software development sector<br> I’m currently learning react js <br>
 
 
 ## 🌐 Socials:
